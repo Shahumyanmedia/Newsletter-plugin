@@ -1,9 +1,4 @@
 <div class="sh_newsletter">
-<!--    <div class="allUnActive">-->
-<!--        <div class="progressTop">-->
-<!--            <img alt="progress register" src="--><?php //echo plugins_url();?><!--/sh-newsletter/sources/img/progress_bar.gif" />-->
-<!--        </div>-->
-<!--    </div>-->
     <div class="error">Database error</div>
     <h1>SH Newsletter Send Mail</h1>
     <div class="EmailBox">
